@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Darragh Murray</h1>
+<h3 align="center">Data expert who loves R, Tableau and Alteryx</h3>
 
-<!--
-**dbmurray/dbmurray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dbmurray&label=Profile%20views&color=0e75b6&style=flat" alt="dbmurray" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/dvfmurray" target="blank"><img src="https://img.shields.io/twitter/follow/dvfmurray?logo=twitter&style=for-the-badge" alt="dvfmurray" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Python, Snowflake**
+
+- 👯 I’m looking to collaborate on **Tableau Visualisation**
+
+- 📝 I regularly write articles on [darraghmurray.com](darraghmurray.com)
+
+- 💬 Ask me about **R, Data Visualisation**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dvfmurray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dvfmurray" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/darraghmurray/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darraghmurray/" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbmurray&show_icons=true&locale=en&layout=compact" alt="dbmurray" /></p>
